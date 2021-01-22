@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#marqueeStyle{
+font-size: 25px;
+}
+#school-logo{
+    height: 150px;
+    width: 600px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+}
